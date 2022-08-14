@@ -6,10 +6,10 @@
 ## Système de classe basé sur les compétences
 <img src="medias/img_1.png" width="100" height="100">
 
-Définissez vos propres classes spéciales en choisissant une race. Mais attention ! Une race comme les Orcs ne pourraient jamais être de bons Archers ou Voleurs. 
+Définissez vos propres classes spéciales en choisissant une race. Mais attention ! Une race comme les Orcs ne pourra jamais être un bon Archer ou Voleur. 
 Le joueur peut avoir plusieurs compétences de combat et de non-combat (ex : collecter des ressources et des objets d'artisanat). 
-Les compétences peuvent être nivelées et en se basant sur le niveau de ladite compétence, vous pouvez augmenter les dégâts infligés par une attaque, ou fabriquer et collecter des objets et des ressources de niveau supérieur. 
-De plus, ces compétences peuvent dépendre les unes des autres. Par exemple, pour apprendre Pluie de Météorite (Meteor Shower), votre joueur devra améliorer sa compétence en pyromancie au niveau 5 par exemple.
+Les compétences peuvent être nivelées et en se basant sur le niveau de chaque compétence, vous pouvez augmenter les dégâts infligés par une attaque, ou fabriquer et collecter des objets et des ressources de niveau supérieur. 
+De plus, ces compétences peuvent dépendre les unes des autres. Par exemple, pour apprendre Pluie de Météorite (Meteor Shower), votre joueur devra améliorer sa compétence en pyromancie au niveau 5.
 
 ## Jouez en solo, en équipe et avec une guilde
 <img src="medias/img_2.png" width="100" height="100">
@@ -42,7 +42,8 @@ Vous pouvez également leur attribuer des bonus et définir des exigences telles
 <img src="medias/img_10.png" width="100" height="100">
 
 Créez et configurez de nouvelles instances dans votre jeu, qu'il s'agisse de donjons que vous souhaitez que les joueurs explorent ou même d'un monde d'un autre MMO. 
-Vous pouvez également définir une instance de joueur en privé, de sorte qu'elle ne serait accessible qu'au propriétaire et sa guilde, et battez-vous pour la gloire de la guilde.
+Vous pouvez également définir une instance de joueur en privé, de sorte qu'elle ne serait accessible qu'au propriétaire et sa guilde.
+Vous pourrez alors vous battre pour la gloire de la guilde.
 
 ## Les factions
 <img src="medias/img_11.png" width="100" height="100">
@@ -77,12 +78,12 @@ Ouvrez votre/vos sac(s) à dos et accédez à l'inventaire de votre personnage :
 ## Items de jeu
 <img src="medias/img_17.png" width="100" height="100">
 
-Vous pouvez avoir des armes, des armures, des consommables, des sacs etc. Certains objets peuvent avoir des exigences comme le niveau ou les statistiques du joueur : une épée à deux mains peut nécessiter une certaine valeur de force, ou un arc puissant, une dextérité plus élevée, etc.
+Vous pouvez avoir des armes, des armures, des consommables, des sacs etc. Certains objets peuvent avoir des exigences comme le niveau ou les statistiques du joueur : une épée à deux mains peut nécessiter une certaine valeur de force, ou un arc puissant une dextérité plus élevée, etc.
 
-## Ensembles d'objets, d'armes et d'armures
+## Panoplies, armes et armures
 <img src="medias/img_18.png" width="100" height="100">
 
-Vous pouvez avoir des armes, des armures, des consommables, des sacs etc. Certains objets peuvent avoir des exigences comme le niveau ou les statistiques du joueur : une épée à deux mains peut nécessiter une certaine valeur de force, ou un arc puissant, une dextérité plus élevée, etc.
+Les panoplies définissent l'ensemble et ses bonus que votre personnage reçoit lorsque vous équipez les différents équipements.
 
 ## Les sockets
 <img src="medias/img_19.png" width="100" height="100">
@@ -99,12 +100,12 @@ Il existe deux systèmes de butin (traditionnel avec distribution de butin au se
 ## Le tchat dans différents canaux
 <img src="medias/img_21.png" width="100" height="100">
 
-Chat dédié avec des canaux mondiaux, de combat, d'événements, de guilde et de groupe, mais pas seulement limité à cela, mais vous pouvez également parler à l'échelle de l'instance dans laquelle vous êtes ou dans le monde entier et vous pouvez envoyer des chuchotements, des invitations de groupe et de guilde et bien plus encore.
+Chat dédié avec des canaux mondiaux, de combat, d'événements, de guilde et de groupe, mais pas seulement limité à cela, vous pouvez également parler à l'échelle de l'instance dans laquelle vous êtes ou dans le monde entier, envoyer des chuchotements, des invitations de groupe et de guilde et bien plus encore.
 
 ## Le système de quêtes
 <img src="medias/img_22.png" width="100" height="100">
 
-Personnalisez et ajustez les quêtes à vos besoins, vous pouvez définir des exigences telles que le niveau du joueur ou une autre quête comme prérequis, vous pouvez définir plusieurs récompenses garanties telles que des objets, des devises, de l'expérience, mais vous pouvez également définir une récompense facultative où un joueur pourra choisir une des récompenses. En tant qu'objectifs de quête, vous pouvez définir des monstres à tuer, un groupe de monstres, obtenir un objet ou une tâche où, par exemple, un joueur devrait explorer une ou plusieurs zones de votre carte.
+Personnalisez et ajustez les quêtes à vos besoins, vous pouvez définir des exigences telles que le niveau du joueur ou une autre quête comme prérequis, vous pouvez définir plusieurs récompenses garanties telles que des objets, des devises, de l'expérience, mais vous pouvez également définir une récompense facultative où un joueur pourra choisir une des récompenses. En tant qu'objectifs de quête, vous pouvez définir des monstres à tuer, un groupe de monstres, obtenir un objet ou une tâche à effectuer dans laquelle, par exemple, un joueur devrait explorer une ou plusieurs zones de votre carte.
 
 ## Le système de dialogue
 <img src="medias/img_21.png" width="100" height="100">
@@ -133,7 +134,7 @@ Le système d'enchantement vous permet de mettre à niveau les équipements de v
 Rassemblez des ressources, jouez des animations et du son, 
 définissez des chances pour les drops et lorsque vous les aurez épuisées, 
 elles seront supprimées par le serveur. 
-Vous pouvez exiger une pioche ou des hachures dans les mains de vos joueurs pour ramasser ou couper l'arbre, 
+Vous pouvez exiger une pioche ou une hache dans les mains de vos joueurs pour ramasser une certaine ressource ou couper un certain arbre, 
 ou encore un niveau de compétence particulier, comme la compétence de "Coupe de bois" niveau 100 pour couper un arbre plus gros.
 
 ## Les échanges en jeu
@@ -190,4 +191,4 @@ Le système de classement vous permet de présenter les meilleurs joueurs au sei
 Le système de succès vous permet de définir diverses conditions telles que tuer des monstres, 
 le score d'équipement, fabriquer des objets, acquérir de l'expérience, récolter, 
 utiliser des capacités pour obtenir des succès spécifiques et des bonus qui lui sont attribués. 
-Vous pouvez également montrer un des titre de réussite que vous avez réussi à obtenir.
+Vous pouvez également montrer aux autres joueur un des titre de réussite que vous avez réussi à obtenir durant votre aventure.

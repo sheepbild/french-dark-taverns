@@ -25,8 +25,8 @@ Nous n'aurons pas de token.
 La majorité des cosmétiques pourront être forgés en NFT. Pendant le jeu, vous pourrez effectuer des quêtes et être récompensé. S'il est éligible, cet objet en jeu peut être transformé en un NFT qui peut être ensuite vendu/acheté sur le marché.
 
 ## Comment fonctionne un P2E ?
-Nous pensez que les jeux actuellents fonctionnent répondent aux attentes de leurs joueurs, mais avec Dark Taverns, nos objets en jeu sont rares.
-Ces objets peuvent être achetés/vendus sur notre place de marché. Dark Taverns est un jeu gratuit, donc tout le monde peut jouer et gagner des objets dans le jeu.
+Nous pensons que les jeux fonctionnant actuellement répondent aux attentes de leurs joueurs, mais avec Dark Taverns, les objets en jeu sont rares.
+Ces objets peuvent être achetés/vendus sur notre place de marché. Dark Taverns est un jeu gratuit, donc tout le monde peut jouer et gagner des objets en jeu.
 
 ## Sur quels systèmes le jeu sera-t-il disponible ?
 Notre jeu sera disponible sur PC, Mac, mobile et console.
