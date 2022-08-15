@@ -6,7 +6,7 @@
 
 #### Possédez une taverne dans le jeu Dark Taverns… Et à l'extérieur du jeu !
 
-#### Qu'est-ce qu'une taverne ?
+#### Qu'est-ce qu'une taverne sombre ?
 
 Lorsque le jeu commence, tous les joueurs prendront connaissance de
 quelques points clés de l'histoire. 
@@ -17,23 +17,23 @@ vous serez transporté dans une Dark Tavern, également appelée taverne dimensi
 
 #### À quoi sert une taverne dans le jeu ?
 Il a de multiples usages. 
-Certains qui sont indépendants des propriétaires de 
-tavernes que nous appelons zones publiques, 
-et d'autres qui sont spécifiques aux propriétaires de 
-tavernes qui sont les zones privées.
+Certaines zones sont indépendantes des propriétaires de 
+tavernes, ce sont les zones publiques. D'autres zones sont spécifiques aux 
+propriétaires de tavernes, ce sont les zones privées.
 Voici une explication plus détaillée :
 
 #### Espaces publics
 
 _**Points de liaison / Point de réapparition / Point de sauvegarde.**_
-Chaque joueur est assigné au hasard à l'une des 10 000 Dark Taverns 
+Chaque joueur est assigné au hasard à l'une des 10 000 tavernes dimensionnelles
 (sauf si vous en possédez une) dans le jeu. 
-Chaque joueur charge le jeu à l'intérieur de sa taverne assignée, 
-réapparaît à l'intérieur d'une taverne et sauvegarde son état à l'intérieur d'une taverne 
+Chaque joueur charge le jeu à l'intérieur de la taverne qui lui est assignée, 
+réapparaît à l'intérieur de celle-ci et sauvegarde son état en son sein également 
 (REMARQUE : les sauvegardes peuvent avoir lieu en dehors des tavernes, mais vous ne serez pas en sûreté). 
-Ce n'est pas parce qu'on vous a attribué une taverne que vous devez rester avec 
-celle-ci en particulier. Chaque joueur peut changer la taverne à laquelle il est lié. 
-Vous pouvez en rejoindre un autre au hasard, en sélectionner une ou en rejoindre une que vos amis ou votre guilde utilisent.
+Ce n'est pas parce qu'on vous a attribué une taverne que vous devez rester lié avec celle-ci
+en particulier. Chaque joueur peut changer de taverne de référence. 
+Vous pouvez en rejoindre une autre au hasard, en sélectionner une ou en rejoindre 
+une que vos amis ou votre guilde utilisent.
 
 _**Point de déplacement rapide / Portail de la ville.**_ 
 Les tavernes permettent également de voyager instantanément vers d'autres zones que vous avez déjà visitées. 
@@ -41,18 +41,18 @@ Après être entré dans une taverne, vous pouvez voyager vers n'importe quelle 
 
 _**Location de chambre à d'autres joueurs.**_ 
 Les joueurs pourront louer des chambres privées pour eux-mêmes à l'intérieur de 
-leur taverne. Les locataires pourront sélectionner la durée de leur séjour 
+leur taverne. Les locataires pourront alors sélectionner la durée de leur séjour 
 et choisir parmi différents types de chambres à louer. 
 Pour commencer, il n'y aura que deux options, mais nous espérons en proposer davantage à l'avenir grâce à l'aide des propriétaires de taverne.
 
-+ Chambres personnelles. Une chambre unipersonnelle dans laquelle seul 
-le joueur qui la loue peut entrer. Cette chambre disposera d'un lit et d'un coffre 
++ Chambres unipersonnelles. Une chambre unipersonnelle est un lieu dans lequel seul 
+le joueur locataire peut entrer. Cette chambre disposera d'un lit et d'un coffre 
 de rangement. Le but principal de ce type de pièce est de l'utiliser pour que votre 
 personnage dorme afin de retrouver rapidement sa santé, son mana et son endurance. 
 L'objectif est également de disposer d'un grand bac de stockage d'objets pour stocker la plupart de son butin.
 
 
-+ Salles de fête (Non, ce n'est pas ce que vous pensez !). Ce type ou cette salle 
++ Salles de fête (Non, ce n'est pas ce que vous pensez !). Ce type de lieu 
 permet à plusieurs joueurs d'entrer et d'y siéger en même temps. 
 Ils peuvent tous dormir pour récupérer, avoir leurs propres coffres de stockage. 
 Ils peuvent également discuter de stratégie ensemble et disposer d'un espace 
@@ -60,7 +60,7 @@ de stockage sécurisé auquel tout le groupe peut accéder en même temps.
 La taille de la fête lors de la location de la salle dictera qui peut y accéder.
 
 _**Boissons au bar.**_ 
-Le bar de la taverne est une zone unique où les joueurs peuvent acheter des 
+Le bar de la taverne est une zone unique dans laquelle les joueurs peuvent acheter des 
 consommables tels que des bières, des ales (bières ambrées) et de l'hydromel. 
 Ces consommables peuvent donner aux joueurs quelques heures de boost sur une 
 statistique ou deux, incluant l'augmentation de la santé, du mana, 
@@ -75,8 +75,8 @@ groupe ou même d'une invitation spécifique à laquelle seules certaines person
 peuvent accéder. Il peut également y avoir plusieurs salles VIP différentes 
 en fonction de la taille de la taverne dont dispose le propriétaire !
 
-_**Ticket Obligatoire.**_ Ces zones sont des endroits auxquels seules les 
-personnes possédant le bon ticket peuvent accéder. Encore une fois, il existe 
+_**Ticket Obligatoire.**_ Ces zones sont réservées aux 
+personnes possédant le bon ticket pour y accéder. Encore une fois, il existe 
 plusieurs possibilités ici : les tickets peuvent être illimités, les gens n'ont alors
 qu'à les acheter (en devise du jeu ou NFT); vous pouvez également gérer des options
 d'accès aux tickets pour limiter la supply. Nous prévoyons également de travailler avec nos
@@ -91,9 +91,9 @@ cette salle, mais la principale chose à noter est que les options ici seront
 une collaboration avec les propriétaires de taverne quant à ce que nous faisons, 
 combien nous faisons et quand nous les faisons.
 
-##### Que dois-je savoir d'autre sur la possession d'une taverne ?
+#### Que dois-je savoir d'autre sur la possession d'une taverne ?
 
-Quelques autres choses étonnantes à propos de la possession d'une taverne, 
+Quelques autres éléments étonnants à propos de la possession d'une taverne, 
 c'est que nous avons différentes phases planifiées pour celles-ci. 
 Voici quelques exemples des fonctionnalités que nous prévoyons et qui seront réalisées
 en collaboration avec les propriétaires de tavernes.
@@ -121,21 +121,21 @@ en vue à la première personne.
 
 _**Dénomination de taverne.**_ Nous prévoyons de permettre aux propriétaires de 
 tavernes de nommer leurs tavernes. Cependant, pour les garder toujours uniques 
-et ne pas provoquer un scénario d'accaparement des terres, nous prévoyons d'avoir le
-nom de la taverne suivi du numéro d'identification de la taverne.
+et ne pas provoquer un scénario d'accaparement des terres, nous prévoyons d'accompagner le
+l'intitulé de la taverne avec le numéro d'identification de celle-ci.
 
 ### Clés forgées
 
 Découvrez les secrets des Dark Taverns… et partez à la recherche des easter eggs !
 
-##### Qu'est-ce qu'une clé forgée ?
+#### Qu'est-ce qu'une clé forgée ?
 
 Les clés forgées sont des clés magiques qui peuvent résonner à différents niveaux 
 de puissance et de densité pour ouvrir et verrouiller des objets. Elles ont été créés 
 pour protéger certains des secrets les mieux dissimulés et s'assurer qu'ils ne 
 tombent pas entre de mauvaises mains.
 
-##### Pourquoi posséder une clé forgée ?
+#### Pourquoi posséder une clé forgée ?
 
 Les clés forgées renferment en elles des secrets inconnus, mais voici quelques-unes
 des utilisations actuellement connues :
@@ -165,7 +165,7 @@ vous pouvez choisir "Légendaire" si vous le souhaitez au lieu d'avoir à parcou
 
 **_Comportement inconnu._** Étant donné que les clés forgées peuvent également faire 
 tourner leurs trois anneaux à l'intérieur, elles peuvent changer de combinaisons 
-comme un verrou qui et révéler des effets inconnus lorsqu'elles sont utilisées 
+comme un verrou et révéler des effets inconnus lorsqu'elles sont utilisées 
 dans différentes situations du jeu... Pourrez-vous toutes les tester et déceler 
 les secrets qui se cachent à l'intérieur ?
 
